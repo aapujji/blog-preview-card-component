@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Blog preview card solution
 
 ## Table of contents
 
@@ -7,7 +7,6 @@
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-
 
 ## Overview
 
@@ -19,8 +18,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: https://github.com/aapujji/qr-code-component
-- Live Site URL: https://aapujji.github.io/qr-code-component/
+- Solution URL: https://github.com/aapujji/blog-preview-card-component
+- Live Site URL: https://aapujji.github.io/blog-preview-card-component/
 
 ## My process
 - Started with building out the HTML based on the design image
