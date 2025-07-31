@@ -45,6 +45,14 @@ body {
         gap: 0.5rem;
         grid-column: 1 / 13;
         max-width: 375px;
+        cursor: pointer;
+
+        &:hover {
+            .article-title {
+                color: var(--yellow);
+                transition: color ease-in 0.2s;
+            }
+        }
 
         .article-image {
             display: block;
@@ -67,6 +75,7 @@ body {
 
         .article-title {
             margin: 1rem 0 0.2rem;
+            transition: color ease-out 0.2s;
         }
 
         .article-description {
